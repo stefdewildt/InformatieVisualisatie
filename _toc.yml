@@ -4,6 +4,4 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/notebook
-- file: docs/assignment_1
 - file: docs/Datastory
